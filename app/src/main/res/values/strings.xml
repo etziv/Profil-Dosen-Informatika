@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile Dosen Informatika</string>
+    <string name="about">About</string>
+    <string name="kelasnim">IK-2B / 3.34.20.1.11</string>
+    <string name="nama">Hanif Abdillah</string>
+    <string name="search">Search</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="search_hint">Search</string>
+</resources>
